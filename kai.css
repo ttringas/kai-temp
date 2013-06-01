@@ -6,3 +6,7 @@ body {
 .container.estimate h1, .wizard h1 {
  color: blue; 
 }
+
+#main_content h1 {
+  color: blue;
+}
