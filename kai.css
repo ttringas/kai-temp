@@ -1,4 +1,3 @@
-h1 { font-size: 48px }
 .container.estimate h1, .wizard h1 {
-  color: blue;
+  color: blue !important;
 }
