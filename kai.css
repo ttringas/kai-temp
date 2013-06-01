@@ -3,3 +3,6 @@ body {
   background-color: #ddd !important;
   
 }
+.container.estimate h1, .wizard h1 {
+ color: blue; 
+}
